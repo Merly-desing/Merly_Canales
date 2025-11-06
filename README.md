@@ -29,7 +29,7 @@ Amante de la tecnología y entusiasta de comenzar mi carrera profesional como QA
 ### :hammer_and_wrench: Lenguajes y herramientas :
 <div id="header" align="left">
   
-   [![My Skills](https://skillicons.dev/icons?i=py,postman,java,postgres,github,unreal,angular,nodejs,js,html,css)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=py,github,html,css)](https://skillicons.dev)
 
 </div>
 
