@@ -18,11 +18,11 @@ Amante de la tecnología y entusiasta de comenzar mi carrera profesional como QA
 
 * :heartbeat: Me encanta el desafio descubrir nuevas formas de escribir codigo para automatizar mi trabajo, ya que me apasiona la logica de programacion. :detective:
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Jorge-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jrgcg/)
+* :mailbox: ¿Quieres contactar conmigo? (https://www.linkedin.com/in/merly-canales/)
 
-* :e-mail: jorge.caceresgarcia@gmail.com
+* :e-mail: canalesmerly02@gmail.com
 
-* :iphone: +569 4208 4090
+* :iphone: +51 946718517
 
 ---
 
