@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/Merly_Canales/blob/main/ModernMinimalTechnologyBackgroundBanner.png"/>
+  <img  src="https://github.com/Merly_Canales/blob/main/ModernMinimalTechnologyBackgroundBanner.png"/>
 </div>
 
 ---
