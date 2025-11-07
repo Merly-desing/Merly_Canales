@@ -11,10 +11,7 @@
  <div id="header" align="left">
 
 ### :man_technologist: Sobre mí :
-Amante de la tecnología y entusiasta de comenzar mi carrera profesional como QA Engineer<img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-* :telescope: Actualmente estoy en la parte final de mi curso de QA Engineer en el BootCamp TripleTen, ansioso de poder aplicar mis nuevos conocimientos que se complementan con mi titulo de Analista Programador. :muscle:
-
-* :seedling: Actualmente estoy practicando con Selenium :blue_book: y ya he realizado proyectos con :computer: lenguaje SQL y Python, sutilizando la libreria Pythest y Request, asi como tambien herramientas de Manual Testing, como Jira, Postman y Android Studio.:technologist:
+Amante de la tecnología y entusiasta de comenzar mi carrera profesional como DA Engineer<img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 * :heartbeat: Me encanta el desafio descubrir nuevas formas de escribir codigo para automatizar mi trabajo, ya que me apasiona la logica de programacion. :detective:
 
