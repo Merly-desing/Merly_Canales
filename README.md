@@ -1,5 +1,7 @@
 <div id="header" style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/Merly-Canales/<NOMBRE_DEL_REPOSITORIO>/main/ModernMinimalTechnologyBackgroundBanner.png" alt="Banner">
+  <img 
+    src="https://raw.githubusercontent.com/Merly-desing/Merly_Canales/main/Modern%20Minimal%20Technology%20Background%20Banner.png" 
+    alt="Banner">
 </div>
 
 
