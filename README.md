@@ -1,12 +1,12 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/Merly_Canales/blob/main/Modern Minimal Technology Background Banner.png" width="800"/>
+  <img decoding="async" src="https://github.com/Merly_Canales/blob/main/ModernMinimalTechnologyBackgroundBanner.png" width="800"/>
 </div>
 
 ---
  <div id="header" align="left">
 
 ### :man_technologist: Sobre mí :
-Amante de la tecnología y entusiasta de comenzar mi carrera profesional como DA Engineer<img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Amante de la tecnología y entusiasta de comenzar mi carrera profesional como DA <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 * :heartbeat: Me encanta el desafio descubrir nuevas formas de escribir codigo para automatizar mi trabajo, ya que me apasiona la logica de programacion. :detective:
 
