@@ -1,10 +1,5 @@
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/Merly_Canales/blob/main/Modern Minimal Technology Background Banner.png" width="800"/>
-  
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
-
-![](https://komarev.com/ghpvc/?username=JorgCaceres&color=blueviolet&style=flat-square)
-  
 </div>
 
 ---
